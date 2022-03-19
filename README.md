@@ -1,5 +1,5 @@
 **  Instructions **
-* Method 1 *
+* Method 1 * 
 Copy the Clone link from Bitbucket.  
 Then, open the Git Bash and jump the path to the address where you saved the project.  
 Paste the clone link and run it.  Open the project path and double click index.html to run the project.
